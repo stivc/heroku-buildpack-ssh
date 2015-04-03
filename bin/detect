@@ -24,4 +24,3 @@ else
     echo 'SSH';
     exit 0;
 fi
-
